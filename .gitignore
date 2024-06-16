@@ -1,0 +1,5 @@
+*.o
+.ccls-cache/
+*.elf
+obj/
+/add
