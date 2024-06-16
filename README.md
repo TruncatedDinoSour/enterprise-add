@@ -5,6 +5,8 @@ Have you noticed how companies shove AI into ***EVERYTHING***? I find it very an
 This program, written in pure C99 uses machine learning to predict `a + b` because why the fuck not! Maybe companies
 will adopt this enterprise add and incorporate it into their products because it's ✨ AI ✨
 
+Watch how this two-neuron single-layer model was developed in 30 minutes on YouTube (live time): <https://www.youtube.com/watch?v=6md1n5KaHMo>
+
 ## Dependencies
 
 - A C compiler
