@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/enterprise-add>
 # Enterprise add
 
 Have you noticed how companies shove AI into ***EVERYTHING***? I find it very annoying. But why not roleplay as them?
